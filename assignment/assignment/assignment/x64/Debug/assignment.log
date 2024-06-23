@@ -1,0 +1,17 @@
+﻿  assignment.cpp
+D:\دراسة\os\OS project1\assignment\assignment\assignment.cpp(50,41): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\دراسة\os\OS project1\assignment\assignment\assignment.cpp(56,41): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\دراسة\os\OS project1\assignment\assignment\assignment.cpp(149,29): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+D:\دراسة\os\OS project1\assignment\assignment\assignment.cpp(150,24): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+D:\دراسة\os\OS project1\assignment\assignment\assignment.cpp(150,63): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+D:\دراسة\os\OS project1\assignment\assignment\assignment.cpp(151,24): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+D:\دراسة\os\OS project1\assignment\assignment\assignment.cpp(151,53): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+D:\دراسة\os\OS project1\assignment\assignment\assignment.cpp(151,87): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+D:\دراسة\os\OS project1\assignment\assignment\assignment.cpp(152,24): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+D:\دراسة\os\OS project1\assignment\assignment\assignment.cpp(152,57): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+D:\دراسة\os\OS project1\assignment\assignment\assignment.cpp(158,33): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+D:\دراسة\os\OS project1\assignment\assignment\assignment.cpp(158,95): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+D:\دراسة\os\OS project1\assignment\assignment\assignment.cpp(158,148): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+D:\دراسة\os\OS project1\assignment\assignment\assignment.cpp(158,198): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+D:\دراسة\os\OS project1\assignment\assignment\assignment.cpp(159,40): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  assignment.vcxproj -> D:\دراسة\os\OS project1\assignment\x64\Debug\assignment.exe
